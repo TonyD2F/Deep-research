@@ -104,4 +104,4 @@ python3 scripts/validate_report.py --help
 
 ## License
 
-No license file is included in this repository. Treat it as all rights reserved until one is added.
+MIT © 2026 TonyD2F — see `LICENSE`.
